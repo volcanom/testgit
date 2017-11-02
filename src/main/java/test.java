@@ -9,7 +9,10 @@ public class test {
         System.out.println("modi by github-1");
         
         
-        System.out.println("add  by  github")
+        System.out.println("add  by  github");
+        
+        
+        String s1 = "test add";
         
 
 
