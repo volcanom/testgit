@@ -8,13 +8,13 @@ public class test {
         System.out.println("modi by local1");
         System.out.println("modi by github");
         System.out.println("modi by github-1");
-        
-        
+
+
         System.out.println("add  by  github");
-        
-        
+
+
         String s1 = "test add";
-        
+
 
      // add by mc -1117
      System.out.println("com my work 1117");
