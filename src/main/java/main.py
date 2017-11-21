@@ -7,4 +7,8 @@ c=sum(a+b)
 print(c)
 
 
+
 add by UE 1121;
+
+add by idea 1121;
+
