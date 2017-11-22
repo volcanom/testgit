@@ -15,3 +15,5 @@ add by idea 1121;
 
 modi by idea   fea1---100%;
 
+fix bug --02  100%  16:38;
+
