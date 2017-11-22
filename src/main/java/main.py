@@ -19,3 +19,4 @@ fix bug --02  100%  16:38;
 
 modi by idea   fea2--100%; 16:40;
 
+add by idea fea3 -50%;
